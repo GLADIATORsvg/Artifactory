@@ -10,7 +10,10 @@
 
 
   <distributionManagement>
-    <!--Write code here-->
+    <repository>
+      <id>github</id>
+      <url>https://maven.pkg.github.com/GLADIATORsvg/Artifactory</url>
+    </repository>
   </distributionManagement>
 
   <properties>
